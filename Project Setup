@@ -1,0 +1,4 @@
+npm create vite@latest focusboard -- --template react
+cd focusboard
+npm install
+npm install lucide-react
